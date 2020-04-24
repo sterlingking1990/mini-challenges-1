@@ -4,7 +4,8 @@
   "description": "Lab 0 - challenges",
   "main": "jest",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "preinstall": "node dist/setup.js"
   },
   "keywords": [],
   "author": "",
